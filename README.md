@@ -1,3 +1,4 @@
+
 -👋 Hi there, I'm Teni!
 - 🔭 I’m diving deep into the world of **Data Science** (Python, Statistics, and Machine Learning).  
 - 🌱 I’m a curious and passionate learner, always excited to explore the endless possibilities of data.  
