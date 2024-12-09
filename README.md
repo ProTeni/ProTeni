@@ -1,6 +1,6 @@
 
 - 👋 Hi there, I'm Teni!
-- 🔭 I’m diving deep into the world of **Data Science** (Python, Statistics, and Machine Learning).
+- 🔭 I’m diving deep into the world of **Data Science** (Python, Statistics, SQL, and Machine Learning).
 - 🌱 I’m a curious and passionate learner, always excited to explore the endless possibilities of data.  
 - 👩‍💻 I’m enrolled in the **CodeOp bootcamp** and take additional courses on Udemy to hone my skills.  
 - 🤔 I’m open to exploring my skills in a practical business environment
