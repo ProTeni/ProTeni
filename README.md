@@ -6,7 +6,8 @@
 - 🤔 I’m open to exploring my skills in a practical business environment
 - 💬 I get excited about conversations around **fitness, nutrition, and venture capital**—it's a topic that interests me.  
 - ⚡ **Fun fact**: I love reading books, going to the gym, cycling, chasing adventures—and I have a soft spot for dogs!
--  📫 **How to reach me**: [kojusoluwaolutade@gmail.com](mailto:kojusoluwaolutade@gmail.com) 
+-  📫 **How to reach me**: [kojusoluwaolutade@gmail.com](mailto:kojusoluwaolutade@gmail.com)
+-  ✨ [Website](https://proteni.github.io/Data-Analysis-Portfolio/)
 
 <!--
 **ProTeni/ProTeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
